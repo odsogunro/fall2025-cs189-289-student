@@ -10,9 +10,7 @@ jupyter>=1.0.0
 tabulate
 torch
 torchvision
+tiktoken
 datasets
 huggingface_hub[cli,torch]
 gradio
-tiktoken
-seaborn
-kaleido==0.2.1
